@@ -1,5 +1,5 @@
-# CKB_hackathon
-CKB hackathon 2021
+# Hackathon $CKB - Nervos
+
 This repository contains work for the Nervos hackathon.
 
 # Issues
