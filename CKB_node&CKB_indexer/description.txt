@@ -1,0 +1,3 @@
+ 
+CKB node and CKB indexer on screenshots are fully synchonized 
+(new records coming within the block delay) 
