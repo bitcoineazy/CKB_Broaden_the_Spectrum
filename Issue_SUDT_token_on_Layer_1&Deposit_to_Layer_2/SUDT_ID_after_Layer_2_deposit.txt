@@ -1,0 +1,4 @@
+Your sudt id: 638
+ckb balance in godwoken is: 300000000000
+sudt balance in godwoken is: 20
+deposit success! 
