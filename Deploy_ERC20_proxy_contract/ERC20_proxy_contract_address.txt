@@ -1,0 +1,2 @@
+ 
+Deployed SUDT-ERC20 Proxy contract address: 0xFC8fDEC9E99e698D3e59484120b82EF72f721611
