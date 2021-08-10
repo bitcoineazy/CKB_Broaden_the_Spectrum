@@ -1,0 +1,3 @@
+A link to the Etherscan explorer for the successful Force Bridge transaction:
+
+https://rinkeby.etherscan.io/tx/0x4e6390a977491e6774d9d16ce47299d3cc7c0ed8d88922b18ded99aaf890c698 

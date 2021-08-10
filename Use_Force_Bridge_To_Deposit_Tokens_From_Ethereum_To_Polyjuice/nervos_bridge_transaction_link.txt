@@ -1,0 +1,2 @@
+A link to the Nervos explorer for the successful Force bridge transaction:
+https://explorer.nervos.org/aggron/transaction/0x29d6bdde07539ad92684963dd5205ca8c983414c117f8bfcb271cf15b24ab2e0 
