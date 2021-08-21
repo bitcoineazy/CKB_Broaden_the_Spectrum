@@ -26,7 +26,7 @@
 # 0xa64C9551def36eA715Ed69FE91ed80A4c616f109
 
 - 7. The ABI for contract you made a call on.
-
+```
 CONTRACT_ABI = [
     {
       "inputs": [],
@@ -60,7 +60,7 @@ CONTRACT_ABI = [
       "type": "function"
     }
   ]
-
+```
 - 8. Your Tron address.
 
 # TYPtv5aefByhjxHF57inptXKY4Nig5ED1J
