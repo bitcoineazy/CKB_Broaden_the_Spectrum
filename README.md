@@ -17,4 +17,6 @@ Issue: Issue An SUDT Token On Layer 1 And Deposit It To Layer 2
 Issue: Deploy The ERC20 Proxy Contract For The Deposited SUDT
 - # [Gitcoin: 6](https://github.com/bitcoineazy/CKB_Broaden_the_Spectrum/tree/main/Use_Force_Bridge_To_Deposit_Tokens_From_Ethereum_To_Polyjuice)
 Issue: Use Force Bridge To Deposit Tokens From Ethereum To Polyjuice
+- # [Gitcoin: 11](https://github.com/bitcoineazy/CKB_Broaden_the_Spectrum/tree/main/Call_with_Tron)
+Issue: Use A Tron Wallet To Execute A Smart Contract Call
 
